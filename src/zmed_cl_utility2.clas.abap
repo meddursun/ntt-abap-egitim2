@@ -10,15 +10,13 @@ CLASS zmed_cl_utility2 DEFINITION
 ENDCLASS.
 
 
-CLASS zmed_cl_utility2 IMPLEMENTATION.
+
+CLASS ZMED_CL_UTILITY2 IMPLEMENTATION.
+
 
   METHOD get_ucomm.
 
-
+"test
 
   ENDMETHOD.
-
-
-
-
 ENDCLASS.
